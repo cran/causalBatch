@@ -1,8 +1,8 @@
 Package: causalBatch
 Type: Package
 Title: Causal Batch Effects
-Version: 1.1
-Date: 2024-01-21
+Version: 1.2.0
+Date: 2024-03-01
 Authors@R: 
   c(person(given="Eric W.", family="Bridgeford", role=c("aut", "cre"),
     email="ericwb95@gmail.com"),
@@ -24,10 +24,10 @@ License: MIT + file LICENSE
 RoxygenNote: 7.3.0
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-02-12 23:27:26 UTC; eric
+Packaged: 2024-03-01 10:06:54 UTC; eric
 Author: Eric W. Bridgeford [aut, cre],
   Michael Powell [ctb],
   Brian Caffo [ctb],
   Joshua T. Vogelstein [ctb]
 Repository: CRAN
-Date/Publication: 2024-02-12 23:50:02 UTC
+Date/Publication: 2024-03-01 10:32:37 UTC

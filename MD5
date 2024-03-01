@@ -1,4 +1,4 @@
-c5c88df507eb9d1c561f2cfd63084cde *DESCRIPTION
+4fce685130cfb5c9ba37ffa048c4b9be *DESCRIPTION
 d7578fee4452477b51bba5b877d23ae2 *LICENSE
 ec84df52822bc0aac2205284d4f59b3c *NAMESPACE
 5fc55fa1738a94f2b38edcb10d8d0ca9 *R/causal_ccombat.R
@@ -8,16 +8,16 @@ db4baae499a59f691896779ce5b43e13 *build/vignette.rds
 3c406e6752182e1c76284545dc88a0f5 *inst/CITATION
 fd11ab52426f9aff9011db7773f69519 *inst/doc/causal_balancing.R
 175a9b40ebe7e84fa156204500daf257 *inst/doc/causal_balancing.Rmd
-7010a62e9ae6e48e8a3bc9f163c82af4 *inst/doc/causal_balancing.html
+c98bda1791b25787260f0dde684dc9cc *inst/doc/causal_balancing.html
 b129fbe880c950ab51a0f5e128c5fcfb *inst/doc/causal_ccombat.R
 54f0638206add9dc4d55e122627afc15 *inst/doc/causal_ccombat.Rmd
-f189b352c8526f0b62488ae8bdfa3159 *inst/doc/causal_ccombat.html
+5c653102b4d4f5c4fc5dd094f888f73a *inst/doc/causal_ccombat.html
 417c415cfef69bb9e011829cd1ee768c *inst/doc/causal_cdcorr.R
 ab4c09234d11b38f5fc9d6e8f030e12a *inst/doc/causal_cdcorr.Rmd
-662d9bd0131cd760af188714109da52d *inst/doc/causal_cdcorr.html
+e829a3a1f504edb265475f99bde9bd14 *inst/doc/causal_cdcorr.html
 4a9b2f9f9f278298f9f3551018381cbf *inst/doc/causal_simulations.R
 d27e21f1d38d575987ea721012d41c54 *inst/doc/causal_simulations.Rmd
-043ab40e1d0369c5832acc8c1fd1f09d *inst/doc/causal_simulations.html
+4515c5072c6d4418bf40bd082a5f2d14 *inst/doc/causal_simulations.html
 08d2ea1d5db7fab5cc2f03bd9454cdc3 *man/cb.align.kway_match.Rd
 951cc6bbe141247358451307b662f90d *man/cb.align.vm_trim.Rd
 fd5e2cf15e89abdb6f33702f7a2e1d40 *man/cb.correct.caus_cComBat.Rd
@@ -34,7 +34,7 @@ fdbe4086501270c909bd1c1cc8adb390 *man/ohe.Rd
 72133a91ebb61a817d5059b0d629a048 *man/zero_one_dist.Rd
 37bd33c8b51255e52935d2776f07eff6 *tests/testthat.R
 b3565ccbd7dc9bcdd4bb6e696094fc45 *tests/testthat/test-causal_ccombat.R
-cc0712d8515cfac26b7cf01843b73567 *tests/testthat/test-causal_cdcorr.R
+11f2d35023ead45d48192244ec1c9f4e *tests/testthat/test-causal_cdcorr.R
 441a7c0acc051b1468ba9b2182689282 *tests/testthat/test-kway_match.R
 c7b507ebb2961030d6ea08f126dd6ad0 *tests/testthat/test-vector_matching.R
 175a9b40ebe7e84fa156204500daf257 *vignettes/causal_balancing.Rmd
